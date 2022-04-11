@@ -1,0 +1,7 @@
+CourseCode,CourseName,ECTS
+CE 1100, Introduction to Programming, 5
+CE 1200, Data Structures, 7
+CE 1300, Database Systems, 6
+CE 1400, Software Engineering, 4
+CE 1500, Web Development, 3
+CE 1600, Mobile Software Development, 4

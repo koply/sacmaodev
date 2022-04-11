@@ -1,0 +1,4 @@
+OfficePhone,EmploymentType,Name,Surname,birthDate,gender,PhoneNumber,Email,password
+(353) 277-4307, Professor, Derrick, Mcguire, 12/09/1981, Male, (452) 449-4697, derrickmcguire@courseregistrations.com, 2JzxyEjBSUlt2gF3
+(212) 905-1176, Ast. Professor, Collin, Owen, 25/10/1988, Male, (452) 873-6694, collinowen@courseregistrations.com, GCBHe68jT72f4jtr
+(485) 377-7723, Ast. Professor, Whitney, Reid, 01/02/1989, Female, (452) 511-9657, whitneyreid@courseregistrations.com, WCXRB8L3X0345v5B
